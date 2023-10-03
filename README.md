@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://cwmkt.com.br/wp-content/uploads/2023/08/logo-github-cwmkt.svg" alt="DispZap Whats Marketing" width="240" />
 <p align="center">Seja bem-vindo ao Guia de Instalação WUZAPI 🚀</p>
 </p>
   
